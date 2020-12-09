@@ -12,13 +12,20 @@ This script checks for the status of Google Workspace services by parsing the [S
 
    Install Python3 from [python.org](https://www.python.org/downloads/windows/)
 
-2. #### Install dependencies
+1. #### Clone the script
+
+   ```
+   git clone https://github.com/smatoto/python-workspace-alerts.git
+   cd python-workspace-alerts
+   ```
+
+1. #### Install dependencies
 
    ```
    pip3 install -r requirements.txt
    ```
 
-3. #### Run the script
+1. #### Run the script
 
    ```
    python3 alert.py
