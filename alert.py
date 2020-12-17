@@ -1,9 +1,7 @@
 import feedparser as p
 import re
 
-# url = 'https://www.google.com/appsstatus/rss/en'
-url = 'https://storage.googleapis.com/test-gsuite-alerts/status-dashboard.xml'
-
+url = 'https://www.google.com/appsstatus/rss/en'
 
 # Get RSS feed contents
 feed = p.parse(url)
