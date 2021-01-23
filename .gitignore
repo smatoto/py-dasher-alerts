@@ -1,2 +1,6 @@
+# Environment
 venv
 .env
+
+# Temp
+savedStatus.xml
