@@ -2,8 +2,9 @@
 venv
 .env
 
-# Temp
-savedStatus.xml
+# Cache
+*/__pycache__
 
 # Logs
 logs
+

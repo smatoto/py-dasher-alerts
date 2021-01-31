@@ -1,4 +1,4 @@
-# Google Workspace alerts
+# Google Workspace Alerts
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg) [![Build Status](https://travis-ci.org/smatoto/python-workspace-alerts.svg?branch=master)](https://travis-ci.org/smatoto/python-workspace-alerts) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/smatoto/python-workspace-alerts/master)
 
@@ -28,9 +28,15 @@ This script checks for the status of Google Workspace services by parsing the [S
 1. #### Run the script
 
    ```
-   python3 alert.py
+   python3 src/alert.py
    ```
 
 ### Next Steps:
 
 - Schedule a cron-job to run the script on regular intervals
+
+### Testing the script:
+
+```
+python3 -m unittest discover
+```

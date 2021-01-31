@@ -1,0 +1,8 @@
+[
+  { "feed": "https://www.google.com/appsstatus/rss/en", "code": 0 },
+  { "feed": "https://storage.googleapis.com/test-gsuite-alerts/2020-11-17T16-17-00Z.xml", "code": 2 },
+  { "feed": "https://storage.googleapis.com/test-gsuite-alerts/2020-11-17T16-19-00Z.xml", "code": 2 },
+  { "feed": "https://storage.googleapis.com/test-gsuite-alerts/2020-11-17T17-20-00Z.xml", "code": 2 },
+  { "feed": "https://storage.googleapis.com/test-gsuite-alerts/2020-11-17T18-49-00Z.xml", "code": 1 },
+  { "feed": "https://storage.googleapis.com/test-gsuite-alerts/2021-01-20T12-30-00Z.xml", "code": 1 }
+]
