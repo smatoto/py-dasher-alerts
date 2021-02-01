@@ -28,7 +28,7 @@ This script checks for the status of Google Workspace services by parsing the [S
 1. #### Run the script
 
    ```
-   python3 src/alert.py
+   python3 src/alerts.py
    ```
 
 ### Next Steps:
